@@ -1,0 +1,49 @@
+* {
+    z-index: 2;
+}
+
+.contactme-container {
+    padding: 50px 120px;
+    z-index: 2;
+}
+
+#ContactMe {
+    font-size: 50px;
+}
+
+.close {
+    font-size: 50px;
+}
+
+.contactme {
+    display: flex;
+    background-color: rgb(29, 144, 226);
+    margin-left: 38%;
+    justify-content: center;
+    flex-wrap: wrap;
+    min-width: 2.5rem;
+    max-width: 26.5rem;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.6);
+}
+
+input {
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+textarea {
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 100%;
+    border: 2px solid black;
+}
+
+form {
+    z-index: 2;
+}
+
+
