@@ -80,14 +80,14 @@ const About = () => {
           variant="h4"
           sx={{ color: "white", mt:12, textAlign: "center" }} 
           >
-                             [ how request works] : Send a request down below by submitting the form, you"ll then get a respose back via email that we give you further instructions involving payment, Documents, and guidelines. 
+                             [ how request works] : Send a request down below by submitting the form, you"ll then get a respose back via email that will give you further instructions involving payment, Documents, and guidelines. 
             </Typography>
 
                 <Typography 
           variant="h5"
           sx={{ color: "red", mt:12, textAlign: "center" }} 
           >
-                             (Template for Request Form ) -  Box 1:[Full Name]   Box 2.[ Email]  Box 3:[ List Selected Package, List Programming Language, Describe What You Are Submitting Such As; DESCRIPTION OF PROJECT/DESCRIPTION OF HOMEWORK]
+                             (Template for Request Form ) -  Box 1:[Full Name]   Box 2.[ Email]  Box 3:[ List Selected Package, List Programming Language, Describe What You Are Submitting Such As; DESCRIPTION OF PROJECT OR REQUEST A ZOOM SESSION
                              
             </Typography>
 

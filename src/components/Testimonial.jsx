@@ -17,19 +17,17 @@ export const Test = () =>   {
            <Typography  variant="body1" sx={{ color: "green", mb: 2 }}>
                        What Im I getting In these packages ?
                        ___________________________________________  
-                       Basic Code Review Package - Documentation of procedures taken when reviewing and correction guidance+
-Code Revision. 
+                       Basic Package 
++Code Revision. 
                          ___________________________________________  
-                          Extend Code Review Package - Code Review Extends over to Personal Projects.
+                          Extend  Package 
 +Unit testing 
 +Bug fixes 
 +Documentation of procedures taken when reviewing and correction guidance
 +GitHub contributor. 
                            ___________________________________________  
-                            Documentation of procedures taken when reviewing and correction guidance+
-+Hints for Questions Followed with Answers.
-+Corrections. 
-+Full Guaranteed Refund of Given Wrong Answers Leading to negative score. 
+                            CompSc Package 
++Zoom session
 +Study advice for furthering understanding. 
                             ___________________________________________  
                             Whats guaranteed when you purchase ? 
